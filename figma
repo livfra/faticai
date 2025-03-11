@@ -1,0 +1,34 @@
+/* SERVIZI */
+
+position: relative;
+width: 393px;
+height: 852px;
+
+background: #FFFFFF;
+
+
+/* Line 1 */
+
+position: absolute;
+width: 195px;
+height: 0px;
+
+border: 1px solid #1674C9;
+
+
+/* Line 2 */
+
+position: absolute;
+width: 195px;
+height: 0px;
+
+border: 1px solid #999999;
+
+
+/* image 3 */
+
+position: absolute;
+width: 27px;
+height: 35px;
+
+background: url(image)
